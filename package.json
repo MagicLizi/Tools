@@ -2,6 +2,7 @@
   "name": "Tools",
   "version": "0.0.1",
   "bin":{
-    "rgbToHex":"changeRGBToHex.js"
+    "rgbToHex":"changeRGBToHex.js",
+    "showHiddenFile":"showHiddenFile.js"
   }
 }
