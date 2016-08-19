@@ -4,6 +4,7 @@
   "bin":{
     "rgbToHex":"changeRGBToHex.js",
     "showHiddenFile":"showHiddenFile.js",
-    "rgbToHsv":"rgbToHsv.js"
+    "rgbToHsv":"rgbToHsv.js",
+    "fileToMD5Name":"fileToMD5Name.js"
   }
 }
